@@ -1,0 +1,54 @@
+{
+    "title": "【Oshi no Ko】Coloured",
+    "description": "Oshi no Ko colour pages, coloured by members of the Oshi no Ko discord, plus the official ones. \nMaintained by: Fenix",
+    "artist": "Mengo Yokoyari",
+    "author": "Aka Akasaka",
+    "cover": "https://cdn.discordapp.com/attachments/1145433320537215057/1145433330247024731/219678.png",
+    "chapters": {
+      "1": {
+        "title": "Volume 1",
+        "volume": "",
+        "last_updated": "1693148218",
+        "groups": {
+          "Onk Manga Colourings": [
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0001_a4cmmphy/3/01.png",
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0001_a4cmmphy/3/03_w.jpg",
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0002_0v0rtc2v/3/01.png",
+            ""
+          ]
+        }
+      },
+      "7": {
+        "title": "Volume 7",
+        "volume": "",
+        "last_updated": "1693148704",
+        "groups": {
+          "Onk Manga Colourings": [
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/02.png?v2"
+          ]
+        }
+      },
+      "9": {
+        "title": "Volume 9",
+        "volume": "",
+        "last_updated": "1693148730",
+        "groups": {
+          "Onk Manga Colourings": [
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0085_quj6znu5/5/03.png?v3",
+            ""
+          ]
+        }
+      },
+      "12": {
+        "title": "Volume 12",
+        "volume": "",
+        "last_updated": "1693148766",
+        "groups": {
+          "Onk Manga Colourings": [
+            "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0112-001.png",
+            "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0114-001.png"
+          ]
+        }
+      }
+    }
+  }
