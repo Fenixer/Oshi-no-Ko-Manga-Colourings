@@ -127,7 +127,7 @@
         "groups": {
           "Onk Manga Colourings": [
             "https://static.wikia.nocookie.net/oshi_no_ko/images/a/a9/Volume_12.jpg/revision/latest?cb=20230705113511",
-            "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0112-001.png", 
+            "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0112-001.png", # reused from v11 cover
             "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0114-001.png"
           ]
         }
