@@ -1,4 +1,6 @@
-{
+import json
+
+chapters = {
     "title": "【Oshi no Ko】Coloured",
     "description": "Oshi no Ko colour pages, coloured by members of the Oshi no Ko discord, plus the official ones.",
     "artist": "Mengo Yokoyari",
@@ -61,21 +63,24 @@
       "6": {
         "title": "Volume 6",
         "volume": "",
-        "last_updated": "1693177207",
+        "last_updated": "1693178988",
         "groups": {
           "Onk Manga Colourings": [
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/6/12157.jpg"
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/6/12157.jpg",
+            # Avery, ch51
+            "https://media.discordapp.net/attachments/1136147446968352839/1145500226392694804/akane_crying.png"
           ]
         }
       },
       "7": {
         "title": "Volume 7",
         "volume": "",
-        "last_updated": "1693177207",
+        "last_updated": "1693180612",
         "groups": {
           "Onk Manga Colourings": [
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/02.png?v2"
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/02.png?v2",
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/03.png?v2"
           ]
         }
       },
@@ -92,11 +97,15 @@
       "9": {
         "title": "Volume 9",
         "volume": "",
-        "last_updated": "1693177207",
+        "last_updated": "1693180612",
         "groups": {
           "Onk Manga Colourings": [
             "https://i.imgur.com/y3VuzCa.png",
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0085_quj6znu5/5/03.png?v3"
+            # Probably a Jump+ Special
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0085_quj6znu5/5/02.png?v3",
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0085_quj6znu5/5/03.png?v3",
+            # Ipex ch87
+            "https://media.discordapp.net/attachments/1136147446968352839/1145499033754943498/Akane_Pout_-_Ipex_Text.png"
           ]
         }
       },
@@ -127,10 +136,16 @@
         "groups": {
           "Onk Manga Colourings": [
             "https://static.wikia.nocookie.net/oshi_no_ko/images/a/a9/Volume_12.jpg/revision/latest?cb=20230705113511",
-            "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0112-001.png", # reused from v11 cover
+            "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0112-001.png", 
             "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0114-001.png"
           ]
         }
       }
     }
   }
+
+
+
+
+with open("chapters.json", "w+", encoding="utf-8") as fp:
+    json.dump(chapters, fp, indent=2)
