@@ -50,12 +50,12 @@ chapters = {
             "https://static.wikia.nocookie.net/oshi_no_ko/images/e/e5/Shonen_Jump%2B_-_Extra_35.jpg/revision/latest",
             "https://static.wikia.nocookie.net/oshi_no_ko/images/0/01/Shonen_Jump%2B_-_Extra_36.jpg/revision/latest",
             "https://static.wikia.nocookie.net/oshi_no_ko/images/e/e2/Shonen_Jump%2B_-_Extra_37.jpg/revision/latest",
-            "https://static.wikia.nocookie.net/oshi_no_ko/images/b/b2/Shonen_Jump%2B_-_Extra_38.jpg/revision/latest/scale-to-width-down/1000",
+            "https://cdn.discordapp.com/attachments/695303167646236712/1090652899446632498/b61dcf5f-09be-48b2-aee3-771bc320d0cd.png",
             "https://static.wikia.nocookie.net/oshi_no_ko/images/8/88/Shonen_Jump%2B_-_Extra_39.png/revision/latest/scale-to-width-down/1000",
             "https://static.wikia.nocookie.net/oshi_no_ko/images/a/ae/Shonen_Jump%2B_-_Extra_40.png/revision/latest",
             "https://static.wikia.nocookie.net/oshi_no_ko/images/9/9e/Shonen_Jump%2B_-_Extra_41.jpg/revision/latest/scale-to-width-down/1000",
             "https://static.wikia.nocookie.net/oshi_no_ko/images/0/0e/Shonen_Jump%2B_-_Extra_42.png/revision/latest/scale-to-width-down/1000",
-            "https://static.wikia.nocookie.net/oshi_no_ko/images/a/ad/Shonen_Jump%2B_-_Extra_43.jpg/revision/latest"
+            "https://cdn.discordapp.com/attachments/695303167646236712/1143923636709904404/6a9a0e3a-0f92-44fa-9f2c-188675e6fc55.png"
           ]
         }
       },
