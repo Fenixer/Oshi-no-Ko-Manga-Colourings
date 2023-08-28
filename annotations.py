@@ -17,8 +17,7 @@ chapters = {
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0001_a4cmmphy/3/01.png",
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0001_a4cmmphy/3/03_w.jpg",
             # frillu
-            "https://media.discordapp.net/attachments/1136147446968352839/1145550150014611559/Untitled135_20230827224624.png"
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0002_0v0rtc2v/3/01.png"
+            "https://cdn.discordapp.com/attachments/1136147446968352839/1145550150014611559/Untitled135_20230827224624.png",            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0002_0v0rtc2v/3/01.png"
           ]
         }
       },
