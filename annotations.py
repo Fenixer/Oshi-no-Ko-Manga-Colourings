@@ -69,7 +69,8 @@ chapters = {
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0001_a4cmmphy/3/01.png",
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0001_a4cmmphy/3/03_w.jpg",
             # frillu
-            "https://cdn.discordapp.com/attachments/1136147446968352839/1145550150014611559/Untitled135_20230827224624.png",            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0002_0v0rtc2v/3/01.png"
+            "https://cdn.discordapp.com/attachments/1136147446968352839/1145550150014611559/Untitled135_20230827224624.png",            
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0002_0v0rtc2v/3/01.png"
           ]
         }
       },
@@ -125,7 +126,7 @@ chapters = {
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/6/12157.jpg",
             # Avery, ch51
             "https://media.discordapp.net/attachments/1136147446968352839/1145500226392694804/akane_crying.png",
-            "https://cdn.discordapp.com/attachments/837342640148185129/926638602685906954/Khong_Co_Tieu_e546_20211231234535.png"
+            "https://cdn.discordapp.com/attachments/837342640148185129/926638602685906954/Khong_Co_Tieu_e546_20211231234535.png",
             "https://cdn.discordapp.com/attachments/837342640148185129/901727908316454962/image0.png",
             "https://cdn.discordapp.com/attachments/837342640148185129/902122460198088715/Khong_Co_Tieu_e155_20211025161220.png",
             "https://cdn.discordapp.com/attachments/837342640148185129/897387546919706664/image0.jpg",
@@ -140,12 +141,12 @@ chapters = {
         "groups": {
           "Onk Manga Colourings": [
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
-            "https://cdn.discordapp.com/attachments/837342640148185129/906122386087247943/C73AA233-65AC-48CE-8573-863F44373796.jpg"
+            "https://cdn.discordapp.com/attachments/837342640148185129/906122386087247943/C73AA233-65AC-48CE-8573-863F44373796.jpg",
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0062_ew66rcmg/5/02.png?v2",
-            "https://cdn.discordapp.com/attachments/837342640148185129/923864558253260880/397AD3AE-09DE-4460-ABC4-22EE97B9E472.jpg"
+            "https://cdn.discordapp.com/attachments/837342640148185129/923864558253260880/397AD3AE-09DE-4460-ABC4-22EE97B9E472.jpg",
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/02.png?v2",
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/03.png?v2",
-            "https://cdn.discordapp.com/attachments/837342640148185129/933926564364705792/5BB426B3-5738-43B2-AAF9-7F4D0C8AD98E.jpg"
+            "https://cdn.discordapp.com/attachments/837342640148185129/933926564364705792/5BB426B3-5738-43B2-AAF9-7F4D0C8AD98E.jpg",
           ]
         }
       },
@@ -163,7 +164,7 @@ chapters = {
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005138532741141/Chapter_75.png",
             "https://cdn.discordapp.com/attachments/837342640148185129/959343856002945044/EAF3798F-2DEB-4AC9-BA5E-2D9C434A6990.jpg",
             #Vinsmoke ch80
-            "https://cdn.discordapp.com/attachments/1145433320537215057/1146084086960631898/IMG_4092.PNG"
+            "https://cdn.discordapp.com/attachments/1145433320537215057/1146084086960631898/IMG_4092.PNG",
           ]
         }
       },
@@ -175,7 +176,7 @@ chapters = {
           "Onk Manga Colourings": [
             "https://i.imgur.com/y3VuzCa.png",
             #Vinsmoke ch81
-            "https://cdn.discordapp.com/attachments/1145433320537215057/1146084085970784358/IMG_3992.PNG"
+            "https://cdn.discordapp.com/attachments/1145433320537215057/1146084085970784358/IMG_3992.PNG",
             # Probably a Jump+ Special
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0085_quj6znu5/5/02.png?v3",
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0085_quj6znu5/5/03.png?v3",
@@ -192,7 +193,7 @@ chapters = {
           "Onk Manga Colourings": [
             "https://i.imgur.com/tQjXFab.png",
             # Yani
-            "https://cdn.discordapp.com/attachments/1145433320537215057/1146005139535167507/Chapter_95.png"
+            "https://cdn.discordapp.com/attachments/1145433320537215057/1146005139535167507/Chapter_95.png",
           ]
         }
       },
@@ -221,13 +222,13 @@ chapters = {
           "Onk Manga Colourings": [
             "https://static.wikia.nocookie.net/oshi_no_ko/images/a/a9/Volume_12.jpg/revision/latest?cb=20230705113511",
             "https://services.f-ck.me/v1/image/aHR0cHM6Ly9zY2Fucy1ob3QubGVhbmJveC51cy9tYW5nYS9Pc2hpLW5vLUtvLzAxMTItMDAxLnBuZw?source=cubari_host", 
-            "https://cdn.discordapp.com/attachments/837342640148185129/1087336786658869248/Khong_Co_Tieu_e624_20230320182656.png"
+            "https://cdn.discordapp.com/attachments/837342640148185129/1087336786658869248/Khong_Co_Tieu_e624_20230320182656.png",
             "https://services.f-ck.me/v1/image/aHR0cHM6Ly9zY2Fucy1ob3QubGVhbmJveC51cy9tYW5nYS9Pc2hpLW5vLUtvLzAxMTQtMDAxLnBuZw?source=cubari_host",
             "https://cdn.discordapp.com/attachments/837342640148185129/1099659175300190298/SPOILER_Khong_Co_Tieu_e734_20230423104627_1.png",
             # Yani
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005135697399838/117_coloring.png",
             # Yani
-            "https://cdn.discordapp.com/attachments/1145433320537215057/1146005140868968489/Chapter_118.png"
+            "https://cdn.discordapp.com/attachments/1145433320537215057/1146005140868968489/Chapter_118.png",
           ]
         }
       },
@@ -240,7 +241,7 @@ chapters = {
             # Yani
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005137249271928/123_Coloring.png",
             # Yani
-            "https://cdn.discordapp.com/attachments/1145433320537215057/1146005142433431562/Chapter_125.png"
+            "https://cdn.discordapp.com/attachments/1145433320537215057/1146005142433431562/Chapter_125.png",
 
           ]
         }
