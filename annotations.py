@@ -208,7 +208,9 @@ chapters = {
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005135294726154/108_color.png",
             # Yani
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005140164333608/Chapter_109.png",
+            # Kanzcolor
             "https://cdn.discordapp.com/attachments/837342640148185129/1078351923654185110/Khong_Co_Tieu_e611_20230223224408.png",
+            # Kanzcolor
             "https://cdn.discordapp.com/attachments/837342640148185129/1080742469727174666/Khong_Co_Tieu_e616_20230302134431.png"
 
           ]
@@ -224,6 +226,9 @@ chapters = {
             "https://services.f-ck.me/v1/image/aHR0cHM6Ly9zY2Fucy1ob3QubGVhbmJveC51cy9tYW5nYS9Pc2hpLW5vLUtvLzAxMTItMDAxLnBuZw?source=cubari_host", 
             "https://cdn.discordapp.com/attachments/837342640148185129/1087336786658869248/Khong_Co_Tieu_e624_20230320182656.png",
             "https://services.f-ck.me/v1/image/aHR0cHM6Ly9zY2Fucy1ob3QubGVhbmJveC51cy9tYW5nYS9Pc2hpLW5vLUtvLzAxMTQtMDAxLnBuZw?source=cubari_host",
+            # avery, ch114
+            "https://media.discordapp.net/attachments/1136147446968352839/1146063944532897862/akane_glares.png?width=415&height=583",
+            # kanz, ch115
             "https://cdn.discordapp.com/attachments/837342640148185129/1099659175300190298/SPOILER_Khong_Co_Tieu_e734_20230423104627_1.png",
             # Yani
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005135697399838/117_coloring.png",
