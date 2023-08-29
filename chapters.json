@@ -138,10 +138,12 @@
     "8": {
       "title": "Volume 8",
       "volume": "",
-      "last_updated": "1693177207",
+      "last_updated": "1693307016",
       "groups": {
         "Onk Manga Colourings": [
-          "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/8/98850.jpg"
+          "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/8/98850.jpg",
+          "https://cdn.discordapp.com/attachments/1145433320537215057/1146005137647751248/Chapter_75_crow.png",
+          "https://cdn.discordapp.com/attachments/1145433320537215057/1146005138532741141/Chapter_75.png"
         ]
       }
     },
@@ -161,32 +163,46 @@
     "10": {
       "title": "Volume 10",
       "volume": "",
-      "last_updated": "1693177207",
+      "last_updated": "1693307016",
       "groups": {
         "Onk Manga Colourings": [
-          "https://i.imgur.com/tQjXFab.png"
+          "https://i.imgur.com/tQjXFab.png",
+          "https://cdn.discordapp.com/attachments/1145433320537215057/1146005139535167507/Chapter_95.png"
         ]
       }
     },
     "11": {
       "title": "Volume 11",
       "volume": "",
-      "last_updated": "1693177207",
+      "last_updated": "1693307016",
       "groups": {
         "Onk Manga Colourings": [
-          "https://i.imgur.com/pbbILTm.png"
+          "https://i.imgur.com/pbbILTm.pnghttps://cdn.discordapp.com/attachments/1145433320537215057/1146005135294726154/108_color.png",
+          "https://cdn.discordapp.com/attachments/1145433320537215057/1146005140164333608/Chapter_109.png"
         ]
       }
     },
     "12": {
       "title": "Volume 12",
       "volume": "",
-      "last_updated": "1693177207",
+      "last_updated": "1693307016",
       "groups": {
         "Onk Manga Colourings": [
           "https://static.wikia.nocookie.net/oshi_no_ko/images/a/a9/Volume_12.jpg/revision/latest?cb=20230705113511",
           "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0112-001.png",
-          "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0114-001.png"
+          "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0114-001.pnghttps://cdn.discordapp.com/attachments/1145433320537215057/1146005135697399838/117_coloring.png",
+          "https://cdn.discordapp.com/attachments/1145433320537215057/1146005140868968489/Chapter_118.png"
+        ]
+      }
+    },
+    "13": {
+      "title": "Volume 13",
+      "volume": "",
+      "last_updated": "1693307016",
+      "groups": {
+        "Onk Manga Colourings": [
+          "https://cdn.discordapp.com/attachments/1145433320537215057/1146005137249271928/123_Coloring.png",
+          "https://cdn.discordapp.com/attachments/1145433320537215057/1146005142433431562/Chapter_125.png"
         ]
       }
     }
