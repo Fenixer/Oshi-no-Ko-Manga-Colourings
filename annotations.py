@@ -76,20 +76,23 @@ chapters = {
       "2": {
         "title": "Volume 2",
         "volume": "",
-        "last_updated": "1693177207",
+        "last_updated": "1693315186",
         "groups": {
           "Onk Manga Colourings": [
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/2/onk-vol2.png"
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/2/onk-vol2.png",
+            "https://cdn.discordapp.com/attachments/837342640148185129/904991062190358558/Khong_Co_Tieu_e170_20211102141056.png",
+            "https://cdn.discordapp.com/attachments/837342640148185129/1071427398869983322/Khong_Co_Tieu_e558_20230204204852.png"
           ]
         }
       },
       "3": {
         "title": "Volume 3",
         "volume": "",
-        "last_updated": "1693177207",
+        "last_updated": "1693315186",
         "groups": {
           "Onk Manga Colourings": [
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/3/46835v3.jpg"
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/3/46835v3.jpg",
+            "https://cdn.discordapp.com/attachments/837342640148185129/894641403798388756/image0.png"
           ]
         }
       },
@@ -116,47 +119,63 @@ chapters = {
       "6": {
         "title": "Volume 6",
         "volume": "",
-        "last_updated": "1693178988",
+        "last_updated": "1693315186",
         "groups": {
           "Onk Manga Colourings": [
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/6/12157.jpg",
             # Avery, ch51
-            "https://media.discordapp.net/attachments/1136147446968352839/1145500226392694804/akane_crying.png"
+            "https://media.discordapp.net/attachments/1136147446968352839/1145500226392694804/akane_crying.png",
+            "https://cdn.discordapp.com/attachments/837342640148185129/926638602685906954/Khong_Co_Tieu_e546_20211231234535.png"
+            "https://cdn.discordapp.com/attachments/837342640148185129/901727908316454962/image0.png",
+            "https://cdn.discordapp.com/attachments/837342640148185129/902122460198088715/Khong_Co_Tieu_e155_20211025161220.png",
+            "https://cdn.discordapp.com/attachments/837342640148185129/897387546919706664/image0.jpg",
+            "https://cdn.discordapp.com/attachments/837342640148185129/892343671528251402/image0.png"
           ]
         }
       },
       "7": {
         "title": "Volume 7",
         "volume": "",
-        "last_updated": "1693180612",
+        "last_updated": "1693315186",
         "groups": {
           "Onk Manga Colourings": [
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/7/66399.jpg",
+            "https://cdn.discordapp.com/attachments/837342640148185129/906122386087247943/C73AA233-65AC-48CE-8573-863F44373796.jpg"
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0062_ew66rcmg/5/02.png?v2",
+            "https://cdn.discordapp.com/attachments/837342640148185129/923864558253260880/397AD3AE-09DE-4460-ABC4-22EE97B9E472.jpg"
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/02.png?v2",
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/03.png?v2"
+            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0067_zq9j6fsv/5/03.png?v2",
+            "https://cdn.discordapp.com/attachments/837342640148185129/933926564364705792/5BB426B3-5738-43B2-AAF9-7F4D0C8AD98E.jpg"
           ]
         }
       },
       "8": {
         "title": "Volume 8",
         "volume": "",
-        "last_updated": "1693307016",
+        "last_updated": "1693318260",
         "groups": {
           "Onk Manga Colourings": [
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/8/98850.jpg",
+            "https://cdn.discordapp.com/attachments/984436587121233930/984534960436281344/E834B1B4-4B3F-45E1-8C15-5D7BA51D2B03.jpg",
+            "https://cdn.discordapp.com/attachments/837342640148185129/947048551911940106/1A8B5057-59CE-494A-BED1-25F056B46608.jpg",
+            "https://cdn.discordapp.com/attachments/984436587121233930/984534757675237396/Khong_Co_Tieu_e82_20220304152106.png",
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005137647751248/Chapter_75_crow.png",
-            "https://cdn.discordapp.com/attachments/1145433320537215057/1146005138532741141/Chapter_75.png"
+            "https://cdn.discordapp.com/attachments/1145433320537215057/1146005138532741141/Chapter_75.png",
+            "https://cdn.discordapp.com/attachments/837342640148185129/959343856002945044/EAF3798F-2DEB-4AC9-BA5E-2D9C434A6990.jpg",
+            #Vinsmoke ch80
+            "https://cdn.discordapp.com/attachments/1145433320537215057/1146084086960631898/IMG_4092.PNG"
           ]
         }
       },
       "9": {
         "title": "Volume 9",
         "volume": "",
-        "last_updated": "1693230442",
+        "last_updated": "1693318260",
         "groups": {
           "Onk Manga Colourings": [
             "https://i.imgur.com/y3VuzCa.png",
+            #Vinsmoke ch81
+            "https://cdn.discordapp.com/attachments/1145433320537215057/1146084085970784358/IMG_3992.PNG"
             # Probably a Jump+ Special
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0085_quj6znu5/5/02.png?v3",
             "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0085_quj6znu5/5/03.png?v3",
@@ -180,7 +199,7 @@ chapters = {
       "11": {
         "title": "Volume 11",
         "volume": "",
-        "last_updated": "1693307016",
+        "last_updated": "1693315186",
         "groups": {
           "Onk Manga Colourings": [
             "https://i.imgur.com/pbbILTm.png"
@@ -188,7 +207,8 @@ chapters = {
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005135294726154/108_color.png",
             # Yani
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005140164333608/Chapter_109.png",
-
+            "https://cdn.discordapp.com/attachments/837342640148185129/1078351923654185110/Khong_Co_Tieu_e611_20230223224408.png",
+            "https://cdn.discordapp.com/attachments/837342640148185129/1080742469727174666/Khong_Co_Tieu_e616_20230302134431.png"
 
           ]
         }
@@ -196,12 +216,14 @@ chapters = {
       "12": {
         "title": "Volume 12",
         "volume": "",
-        "last_updated": "1693307016",
+        "last_updated": "1693315186",
         "groups": {
           "Onk Manga Colourings": [
             "https://static.wikia.nocookie.net/oshi_no_ko/images/a/a9/Volume_12.jpg/revision/latest?cb=20230705113511",
-            "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0112-001.png", 
-            "https://scans-hot.leanbox.us/manga/Oshi-no-Ko/0114-001.png"
+            "https://services.f-ck.me/v1/image/aHR0cHM6Ly9zY2Fucy1ob3QubGVhbmJveC51cy9tYW5nYS9Pc2hpLW5vLUtvLzAxMTItMDAxLnBuZw?source=cubari_host", 
+            "https://cdn.discordapp.com/attachments/837342640148185129/1087336786658869248/Khong_Co_Tieu_e624_20230320182656.png"
+            "https://services.f-ck.me/v1/image/aHR0cHM6Ly9zY2Fucy1ob3QubGVhbmJveC51cy9tYW5nYS9Pc2hpLW5vLUtvLzAxMTQtMDAxLnBuZw?source=cubari_host",
+            "https://cdn.discordapp.com/attachments/837342640148185129/1099659175300190298/SPOILER_Khong_Co_Tieu_e734_20230423104627_1.png",
             # Yani
             "https://cdn.discordapp.com/attachments/1145433320537215057/1146005135697399838/117_coloring.png",
             # Yani
