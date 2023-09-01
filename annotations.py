@@ -62,39 +62,25 @@ chapters = {
       "1": {
         "title": "Volume 1",
         "volume": "",
-        "last_updated": "1693230442",
+        "last_updated": "1693586412",
         "groups": {
-          "Onk Manga Colourings": [
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/1/Eb6K2T3UwAAMZxK.png",
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0001_a4cmmphy/3/01.png",
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0001_a4cmmphy/3/03_w.jpg",
-            # frillu
-            "https://cdn.discordapp.com/attachments/1136147446968352839/1145550150014611559/Untitled135_20230827224624.png",            
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/chapters/0002_0v0rtc2v/3/01.png"
-          ]
+          "Onk Manga Colourings": "/proxy/api/imgur/chapter/WghTcy1/"
         }
       },
       "2": {
         "title": "Volume 2",
         "volume": "",
-        "last_updated": "1693315186",
+        "last_updated": "1693586412",
         "groups": {
-          "Onk Manga Colourings": [
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/2/onk-vol2.png",
-            "https://cdn.discordapp.com/attachments/837342640148185129/904991062190358558/Khong_Co_Tieu_e170_20211102141056.png",
-            "https://cdn.discordapp.com/attachments/837342640148185129/1071427398869983322/Khong_Co_Tieu_e558_20230204204852.png"
-          ]
+          "Onk Manga Colourings": "/proxy/api/imgur/chapter/eMVWCO3/"
         }
       },
       "3": {
         "title": "Volume 3",
         "volume": "",
-        "last_updated": "1693315186",
+        "last_updated": "1693586546",
         "groups": {
-          "Onk Manga Colourings": [
-            "https://guya.cubari.moe/media/manga/Oshi-no-Ko/volume_covers/3/46835v3.jpg",
-            "https://cdn.discordapp.com/attachments/837342640148185129/894641403798388756/image0.png"
-          ]
+          "Onk Manga Colourings": "/proxy/api/imgur/chapter/TjigtJR/"
         }
       },
       "4": {
