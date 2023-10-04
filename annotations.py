@@ -5,7 +5,7 @@ chapters = {
     "description": "Oshi no Ko colour pages, coloured by members of the Oshi no Ko discord, plus the official ones.",
     "artist": "Mengo Yokoyari",
     "author": "Aka Akasaka",
-    "cover": "https://cdn.discordapp.com/attachments/1145433320537215057/1145433330247024731/219678.png",
+    "cover": "https://i.imgur.com/aaCWAbe.png",
     "chapters": {
       "0": {
         "title": "Jump Special Illustrations",
@@ -62,7 +62,7 @@ chapters = {
       "1": {
         "title": "Volume 1",
         "volume": "",
-        "last_updated": "1693586412",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/WghTcy1/"
         }
@@ -70,7 +70,7 @@ chapters = {
       "2": {
         "title": "Volume 2",
         "volume": "",
-        "last_updated": "1693586412",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/eMVWCO3/"
         }
@@ -78,7 +78,7 @@ chapters = {
       "3": {
         "title": "Volume 3",
         "volume": "",
-        "last_updated": "1693586546",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/TjigtJR/"
         }
@@ -86,7 +86,7 @@ chapters = {
       "4": {
         "title": "Volume 4",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/oskIw0h/"
         }
@@ -94,7 +94,7 @@ chapters = {
       "5": {
         "title": "Volume 5",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/FCriPod/"
         }
@@ -102,7 +102,7 @@ chapters = {
       "6": {
         "title": "Volume 6",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/ehhcmI6/"
         }
@@ -110,7 +110,7 @@ chapters = {
       "7": {
         "title": "Volume 7",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/vPCPUJV/"
         }
@@ -118,7 +118,7 @@ chapters = {
       "8": {
         "title": "Volume 8",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/N5dr12O/"
         }
@@ -126,7 +126,7 @@ chapters = {
       "9": {
         "title": "Volume 9",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/9ZzLXZ5/"
         }
@@ -134,7 +134,7 @@ chapters = {
       "10": {
         "title": "Volume 10",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/KNlxRU3"
         }
@@ -142,7 +142,7 @@ chapters = {
       "11": {
         "title": "Volume 11",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/iEGvKJO"
         }
@@ -150,7 +150,7 @@ chapters = {
       "12": {
         "title": "Volume 12",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/d7Xtu7N"
         }
@@ -158,7 +158,7 @@ chapters = {
       "13": {
         "title": "Volume 13",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/lHO30f6"
         }
@@ -166,7 +166,7 @@ chapters = {
       "13.5": {
         "title": "Interlude",
         "volume": "",
-        "last_updated": "1693590419",
+        "last_updated": "1696429597",
         "groups": {
           "Onk Manga Colourings": "/proxy/api/imgur/chapter/dZTcfaf"
         }
