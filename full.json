@@ -10,7 +10,7 @@
         "volume": "",
         "last_updated": "",
         "groups": {
-          "Ruby FC": "/proxy/api/imgur/chapter/WghTcy1/"
+          "Ruby FC": "/proxy/api/mangadex/chapter/414bf5d5-e3dd-418d-9a92-92092ecdb117/"
         }
       },
       "79": {
@@ -18,7 +18,7 @@
         "volume": "",
         "last_updated": "",
         "groups": {
-          "Ruby FC": "/proxy/api/imgur/chapter/eMVWCO3/"
+          "Ruby FC": "/proxy/api/mangadex/chapter/e0462e32-c2d2-4ac9-9eb5-82b6c289c00d/"
         }
       },
       "127": {
@@ -28,6 +28,15 @@
         "groups": {
           "Feyku": "/proxy/api/imgur/chapter/3QbHYHq"
         }
+      },
+      "83": {
+        "title": "Fixation",
+        "volume": "",
+        "last_updated": "",
+        "groups": {
+          "Yura, Yanii": "/proxy/api/imgur/chapter/3QbHYHq"
+        }
       }
+
     }
   }
