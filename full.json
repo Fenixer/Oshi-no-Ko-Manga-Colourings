@@ -1,0 +1,33 @@
+{
+    "title": "\u3010Oshi no Ko\u3011Coloured",
+    "description": "Oshi no Ko Manga, coloured by Ruby's Fanclub",
+    "artist": "Mengo Yokoyari",
+    "author": "Aka Akasaka",
+    "cover": "https://i.imgur.com/aaCWAbe.png",
+    "chapters": {
+      "65": {
+        "title": "Regret",
+        "volume": "",
+        "last_updated": "",
+        "groups": {
+          "Ruby FC": "/proxy/api/imgur/chapter/WghTcy1/"
+        }
+      },
+      "79": {
+        "title": "Duty",
+        "volume": "",
+        "last_updated": "",
+        "groups": {
+          "Ruby FC": "/proxy/api/imgur/chapter/eMVWCO3/"
+        }
+      },
+      "127": {
+        "title": "Scouting A Girl",
+        "volume": "",
+        "last_updated": "",
+        "groups": {
+          "Feyku": "/proxy/api/imgur/chapter/3QbHYHq"
+        }
+      }
+    }
+  }
